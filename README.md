@@ -1,2 +1,2 @@
 # NextFarm-FinalSystem-main
- Dear sir/madam  I am applying  to the job post for junior software developer. I believe I am the best candidate for the position as I am fit the desired set list. I am definitely competent even in unknown area I will archieve the objective. when you look at my CV you'll see my skill set and projects that indicate my capabilities along with my github for more projects I have done.  I wish to hear from you and God bless Sincerly Mokoena CKS mokoenacks@gmail.com
+ A system that helps Business to Business and Business to Customer sales by giving farmers the ability to connect to both and do businness with both. customers can buy from their chosen supplier and suppliers can add products they wish to sell
